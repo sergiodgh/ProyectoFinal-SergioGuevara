@@ -1,0 +1,15 @@
+Direcciones RFID
+
+- Tarjeta 
+In hex:  D5 E0 53 63
+In dec:  213 224 83 99
+
+
+- TAG Claro
+In hex:  19 32 E1 2A
+In dec:  25 50 225 42
+
+
+- TAG Oscuro
+In hex:  B1 BA 0C FD
+In dec:  177 186 012 253
